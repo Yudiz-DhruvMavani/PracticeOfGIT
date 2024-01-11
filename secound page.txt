@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 use for mergr conflicts!Sgit
-=======
-added
->>>>>>> dae77ba (upadted)
